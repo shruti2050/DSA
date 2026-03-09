@@ -10,7 +10,7 @@ public class Qes1{
         if(s.charAt(i) == s1.charAt(j)){
             count++;
             j++;
-
+            
         }
     }
     if(j == s1.length()){
